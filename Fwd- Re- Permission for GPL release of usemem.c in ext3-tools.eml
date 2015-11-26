@@ -1,0 +1,56 @@
+Received: from fmsmsx107.amr.corp.intel.com (10.18.124.205) by
+ SHSMSX103.ccr.corp.intel.com (10.239.4.69) with Microsoft SMTP Server (TLS)
+ id 14.3.248.2; Tue, 17 Nov 2015 16:14:52 +0800
+Received: from orsmga001.jf.intel.com (10.7.209.18) by
+ FMSMSX107-2.cps.intel.com (10.18.124.214) with Microsoft SMTP Server id
+ 14.3.248.2; Tue, 17 Nov 2015 00:14:50 -0800
+Received: from hailiu-mobl4.ccr.corp.intel.com (HELO wfg-t540p.sh.intel.com)
+ ([10.255.30.237])  by orsmga001.jf.intel.com with ESMTP; 17 Nov 2015 00:14:27
+ -0800
+Received: from wfg by wfg-t540p.sh.intel.com with local (Exim 4.84)
+	(envelope-from <fengguang.wu@intel.com>)	id 1ZybPA-0005PI-CV	for
+ aaron.lu@intel.com; Tue, 17 Nov 2015 16:14:20 +0800
+From: Fengguang Wu <fengguang.wu@intel.com>
+To: "Lu, Aaron" <aaron.lu@intel.com>
+Subject: Fwd: Re: Permission for GPL release of usemem.c in ext3-tools
+Thread-Topic: Re: Permission for GPL release of usemem.c in ext3-tools
+Thread-Index: AdEhExGRO7uYujh/YUCaPF/NspKBMQ==
+Date: Tue, 17 Nov 2015 16:14:20 +0800
+Message-ID: <20151117081420.GA20676@wfg-t540p.sh.intel.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AuthSource: fmsmsx107.amr.corp.intel.com
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-imapappendstamp: SHSMSX151.ccr.corp.intel.com (14.03.0227.000)
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <13FD79E3CC74B24F959AF8AA443E07EF@intel.com>
+MIME-Version: 1.0
+
+----- Forwarded message from Andrew Morton <akpm@linux-foundation.org> -----
+
+Date: Tue, 23 Apr 2013 18:32:20 -0700
+From: Andrew Morton <akpm@linux-foundation.org>
+To: Fengguang Wu <fengguang.wu@intel.com>
+Subject: Re: Permission for GPL release of usemem.c in ext3-tools
+X-Mailer: Sylpheed 2.7.1 (GTK+ 2.18.9; x86_64-redhat-linux-gnu)
+
+Yes, of course.
+
+On Wed, 24 Apr 2013 08:45:17 +0800 Fengguang Wu <fengguang.wu@intel.com> wrote:
+
+> Andrew,
+> 
+> I'd like to GPL release a VM scalability test suite, which includes a
+> modified version of usemem.c. Since it's initially found in your
+> ext3-tools and does not have explicit copying statements, I'd like to
+> ask for your agreement/permission for me to release it under GPLv2.
+> 
+> Attached is the updated source code.
+> 
+> Thanks & Regards!
+> Fengguang
+
+----- End forwarded message -----
+
